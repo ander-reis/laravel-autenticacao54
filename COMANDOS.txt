@@ -1,0 +1,11 @@
+remover table sqlite:
+rm database\database.sqlite
+
+criar database sqlite:
+touch database\databse.sqlite
+
+gerar ide-helper: ambos inclusos em composer.json em scripts, post-install-cmd e post-update-cmd
+"php artisan ide-helper:generate",
+
+gerar ide-helper meta: ambos inclusos em composer.json em scripts, post-install-cmd e post-update-cmd
+"php artisan ide-helper:meta",

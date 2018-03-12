@@ -1,0 +1,7 @@
+Acessor user:
+user: email, password ou phone
+password: secret
+
+
+Acesso Social:
+password: 123456
